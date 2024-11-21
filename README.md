@@ -1,2 +1,3 @@
-# flickz-mobile
-Flickz mobile app
+# flickz
+
+A new Flutter project.
