@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'pages/home.dart';
-import 'pages/downloads.dart';
-import 'pages/settings.dart';
+import 'pages/home/home.dart';
+import 'pages/downloads/downloads.dart';
+import 'pages/settings/settings.dart';
 
 void main() {
   runApp(const MainApp());
